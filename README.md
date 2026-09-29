@@ -10,4 +10,4 @@ Entrepreneur in San Francisco, putting AI agents to work on real business operat
 
 ☕ **Ask me about:** practical agent setups, what's worth automating, and what isn't
 
-📍 See you at SF Tech Week
+📍 See you all at SF Tech Week
